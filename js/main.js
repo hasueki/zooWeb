@@ -138,7 +138,7 @@
     });
 
     //pop up porfolio
-    $('.portfolio-image li a').magnificPopup({
+    $('#photos a').magnificPopup({
       type: 'image',
       gallery: {
         enabled: true
